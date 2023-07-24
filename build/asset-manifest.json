@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/words_learning_game/static/css/main.0b9f5212.css",
+    "main.js": "/words_learning_game/static/js/main.804abccb.js",
+    "index.html": "/words_learning_game/index.html",
+    "main.0b9f5212.css.map": "/words_learning_game/static/css/main.0b9f5212.css.map",
+    "main.804abccb.js.map": "/words_learning_game/static/js/main.804abccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9f5212.css",
+    "static/js/main.804abccb.js"
+  ]
+}
