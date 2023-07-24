@@ -9,7 +9,7 @@ import NoPage from './pages/NoPage';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/words_learning_game'>
       <Routes>
         <Route path='/' element={<Layout />}>
           <Route index element={<Home />} />
